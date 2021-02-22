@@ -32,5 +32,5 @@ int main(){
     }
     
   ciclovia.MST();
-  ciclovia.imprime();
+  ciclovia.Imprime();
 }
